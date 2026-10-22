@@ -31,7 +31,7 @@ This seamless loop is the reason you can begin writing an article on a laptop at
 
 ### Security: Who Protects the Locker?
 
-The most common hesitation people have about cloud storage centers on trust. If my private files are sitting in a warehouse thousands of miles away, what stops a stranger—or the warehouse workers themselves from reading them?
+The most common hesitation people have about cloud storage centers on trust. If my private files are sitting in a warehouse thousands of miles away, what stops a stranger or the warehouse workers themselves from reading them?
 
 This is managed by a framework known as the **Shared Responsibility Model**:
 
